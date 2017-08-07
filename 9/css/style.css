@@ -14,21 +14,21 @@ margin-left: 300px;
 .water {
   width: 900px;
   height: auto;
-  margin-top: 750px;
+  top: 750px;
   z-index: 3;
 
 }
 .ship {
 width: 200px;
 height: auto;
-margin-top: 565px;
-margin-left: 12px;
+top: 565px;
+left: 12px;
 z-index: 2;
 }
 .back {
   width: 900px;
   height: auto;
-  margin-top: 260px;
+  top: 260px;
   z-index: 2;
 }
 .box {
