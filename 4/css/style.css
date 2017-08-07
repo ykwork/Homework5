@@ -1,0 +1,31 @@
+.fullwrap {
+  border: solid; border-width: 2px; width: 100%; height: 100%; margin: 5px 5px 5px 5px;
+  background: gold;
+
+}
+.wrapper {
+  border: solid; border-width: 1px; margin: 5px 5px 5px 5px;
+  background: green;
+  display: block;
+    content: "";
+    clear: both;
+}
+.header {
+  width: 100%;
+  height: 175px;
+
+}
+.main {
+  width: 50%;
+  height: auto;
+  float: left;
+}
+.sidebar {
+  width: 400px;
+  height: auto;
+}
+.footer {
+  width: 100%;
+  height: auto;
+  bottom: 0px;
+}
